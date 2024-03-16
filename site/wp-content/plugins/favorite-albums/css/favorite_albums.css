@@ -1,0 +1,39 @@
+#note{
+	color: #FE2E64; 
+	margin-left: 25px;
+}
+
+#style{
+	margin-left: 15px;
+	color: #FF0080;
+}
+
+.custom-p, #style{
+	font-family: 'New Rocker', cursive !important;
+	color: #FE2E64; 
+}
+
+.img-section img{
+	width:350px;
+	height:350px;
+	margin-left: 20%;
+}
+
+h6{
+	margin-top: 10px !important; 
+	color: #ffffff;
+	font-family: 'New Rocker', cursive !important;
+}
+
+#link{ text-align:center; }
+
+#link a{ color: #FF0080;  }
+
+#style-content{ font-size:16px; }
+
+#img-favorite{
+	width:400px;
+	height:400px;
+	margin-top:-240px;
+}
+

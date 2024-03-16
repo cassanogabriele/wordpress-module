@@ -1,0 +1,32 @@
+.thumbnails-review{ 
+	width: 350px !important; 
+	border: 1px ridge white;
+	border-radius: 3px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+table{
+	border-right: 0 !important;
+	border-left: 0 !important;
+}
+
+table tr th{ border:0; }
+
+.hr-style{ 
+	color: #FE2E64 !important; 
+}
+
+.review-size{ width:300px !important; }
+
+.titles-review, .author{
+	text-align: center !important;
+	color: #FE2E64 !important;
+	font-family: 'New Rocker', cursive !important;
+}
+
+.artist-reviews{ border: 2px ridge white; }
+
+
+
